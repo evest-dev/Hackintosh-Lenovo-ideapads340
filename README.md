@@ -38,16 +38,11 @@
 
 
 ## SCEENSHOTS:
-![alt tag]( "Lenovo s340")​
-![alt tag]( "Lenovo s340")​
-![alt tag]( "Lenovo s340")​
-![alt tag]( "Lenovo s540")​
-![alt tag]("Lenovo s540")​
-![alt tag]( "Lenovo s540")​
-![alt tag]( "Lenovo s540")​
-![alt tag]( "Lenovo s540")​
-![alt tag]( "Lenovo s340")​
-![alt tag]( "Lenovo s540")​
+![Screen Shot 2021-08-05 at 19 32 44](https://user-images.githubusercontent.com/74104584/128439566-70688507-0b8f-4dea-a6cb-da9a9b62b1d0.png)
+![Captura de Pantalla 2021-08-05 a la(s) 18 01 52](https://user-images.githubusercontent.com/74104584/128439574-029fb709-51ae-445b-9c5a-fdbd7647cfdf.png)
+![Screen Shot 2021-08-05 at 19 45 22](https://user-images.githubusercontent.com/74104584/128439575-582ef77b-16af-4278-aafe-5fd68ea8f88a.png)
+![Screen Shot 2021-08-05 at 19 15 55](https://user-images.githubusercontent.com/74104584/128439578-22bdc97b-c1be-4007-aaf9-f61f347567f7.png)
+![Captura de Pantalla 2021-08-05 a la(s) 18 01 45](https://user-images.githubusercontent.com/74104584/128439584-7e1e034c-5de6-4643-9a7a-0109422ecdb9.png)
 
 
 
