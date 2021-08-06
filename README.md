@@ -8,7 +8,7 @@
 |----------------|------------------------------------------------------------|
 |Processor:| Intel Core  i5-8265U (Whiskey Lake) |
 |Memory:          |4GB Soldered + 8gb  |         
-|Graphics:         |Integrated Intel UHD Graphics 620|
+|Graphics:         |Integrated Intel UHD Graphics 630|
 |Wireless Network:          |Intel AC-9462|
 |Audio:        |Realtek ALC257 |
 |Camera:          |Inbuilt|
