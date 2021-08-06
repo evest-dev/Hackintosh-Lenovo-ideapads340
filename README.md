@@ -18,7 +18,7 @@
 
 
 ## What's working:
-  - Wi-Fi/Bluetooth (Native Card Intel AC-9462) :white_check_mark:
+  - Wi-Fi/Bluetooth (Native Card Intel AC-9462) [check this video](https://youtu.be/rljg9Nk7c5w "") :white_check_mark:
   - USB Ports, USB-C :white_check_mark:
   - Keyboard :white_check_mark:
   - Trackpad, gestures. :white_check_mark:
