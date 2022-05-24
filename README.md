@@ -1,4 +1,4 @@
-# Lenovo s340 Mojave - Catalina - Big Sur OpenCore (0.7.2)
+# Lenovo s340 Mojave - Catalina - Big Sur - Monterey OpenCore (0.7.2)
 
 ![LENOVO_81N80002LM-removebg-preview](https://user-images.githubusercontent.com/74104584/128438639-243fa5e1-cbcf-4c28-94f3-08c01e5a7194.png)
 
